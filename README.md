@@ -1,3 +1,5 @@
+[![Build Status](https://buildhive.cloudbees.com/job/mbryzhko/job/sandbox/badge/icon)](https://buildhive.cloudbees.com/job/mbryzhko/job/sandbox/
+
 This repo was created to play arround Git.
 You can read this arrticle first http://nvie.com/posts/a-successful-git-branching-model/
 
