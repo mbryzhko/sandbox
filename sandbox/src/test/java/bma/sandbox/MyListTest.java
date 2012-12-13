@@ -20,4 +20,15 @@ public class MyListTest {
 		assertThat(list, is(new MyList<String>("Given")));
 	}
 	
+	@Test
+	public void verify_if_delete_works(){
+		//given
+		MyList<String> list = new MyList<String>("test one", "test two");
+		//when
+		list.remove(0);
+		//then
+		assertThat(list.size(), is(1));
+		
+	}
+	
 }
