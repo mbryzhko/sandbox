@@ -10,6 +10,7 @@ import java.util.ListIterator;
  * This is public implementation for {@link List} interface from Java
  * Collection.
  * 
+ * comment
  * Do you want to compete with Josh Bloch?
  */
 public class MyList<E> implements List<E> {
