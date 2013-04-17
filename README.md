@@ -37,5 +37,6 @@ See that your local repo of *develop* branch is ahead of 'origin/develop'<br>
 <code>$ git branch -d myfeature<br>
 $ git push origin develop</code>
 
+
 4) Check jenkins<br>
 https://buildhive.cloudbees.com/job/mbryzhko/job/sandbox/
